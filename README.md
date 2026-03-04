@@ -50,6 +50,7 @@ ___
 | 週次 | 講義 |
 |:---:|------|
 | W1 | [課程介紹、Markdown 作為 AI 溝通語言](W1.md) |
+| W2 | [StockCheck CLI PRD](W2-Supplement.md)、[StockCheck CLI SDD](W2-Supplement2.md)、[StockHeatMap SDD 教學 Notebook](W2_StockHeatMap_v3.ipynb) |
 
 ---
 
